@@ -1,0 +1,16 @@
+body{background-color:lightgreen;
+     }
+
+
+h2#author{font:red;
+         }
+
+div.pros_cons{padding:10px;
+         margin:auto;
+         color:green;
+         font:Cursive;
+         }
+
+ul p{
+    color:orange;
+    }
